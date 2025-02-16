@@ -1,1 +1,1 @@
-I am starting the Python prejects, and this is the directory I will be using
+I am starting the Python projects, and this is the directory I will be using
